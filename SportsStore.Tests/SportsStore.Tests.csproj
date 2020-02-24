@@ -14,4 +14,8 @@
     <PackageReference Include="Moq" Version="4.7.99" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SportsStore\SportsStore.csproj" />
+  </ItemGroup>
+
 </Project>
